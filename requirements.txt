@@ -20,7 +20,7 @@ jupyter-core==4.4.0
 MarkupSafe==1.0
 mccabe==0.6.1
 nbformat==4.4.0
-numpy==1.14.2
+numpy==1.22.0
 pandas==0.22.0
 plotly==2.5.1
 pycodestyle==2.3.1
